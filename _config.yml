@@ -21,7 +21,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title:                          # the main title
+title: Dragon                      # the main title
 
 tagline: 这里是Dragon的博客～   # it will display as the sub-title
 
@@ -35,7 +35,7 @@ github: Dragon622
   username: tomstillcoding             # change to your github username
 
 twitter:
-  username: no have            # change to your twitter username
+  username: don't have            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ./assets/config/avatar.jpg
+avatar: C:\Users\86151\Pictures\Camera Roll\yuzhibo.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true

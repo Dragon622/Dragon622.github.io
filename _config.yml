@@ -32,10 +32,10 @@ description: >-                        # used by seo meta and the atom feed
 url: ''
 
 github:
-  username: tomstillcoding             # change to your github username
+  username: Dragon622             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: Dragon622            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,8 +44,8 @@ social:
   email: 2475715347@qq.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/Dragon622      # change to your twitter homepage
+    - https://github.com/Dragon622       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ./assets/config/avatar.jpg
+avatar: ./assets/config/yuzhibo.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true

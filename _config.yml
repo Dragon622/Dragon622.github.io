@@ -23,9 +23,9 @@ timezone:
 
 title: Uchiha Dragon                         # the main title
 
-tagline: Here is the blog of ccut Liu Jialong, founded to communicate and learn with everyone, welcome to my blog,If you have any questions, you can contact my QQ or email me directly. My email address is DragonQwQ@outlook.com～   # it will display as the sub-title
+tagline: Here is the blog of ccut Liu Jialong, founded to communicate and learn with everyone, welcome to my blog,If you have any questions, you can contact my QQ or email me directly. My email address is DragonQwQ@outlook.com~   # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
-    这是通过Chirpy主题配置而成的
+    This is configured through the Chirpy theme
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''

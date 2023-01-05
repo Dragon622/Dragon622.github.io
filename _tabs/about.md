@@ -1,5 +1,5 @@
 ---
-title: 关于
+title: about
 icon: fas fa-info
 order: 4
 ---
@@ -10,7 +10,7 @@ order: 4
   - 🧠  I am happy to meet all of you.
   - 🏖️  I am from Tangshan, Hebei.
 
-my 扣扣:2475715347
+my QQ:2475715347
 my email：DragonQwQ@outlook.com
 
 
